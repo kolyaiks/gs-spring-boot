@@ -1,6 +1,6 @@
 pool:
   name: Azure Pipelines
-  demands: mave
+  demands: maven
 
 steps:
 - task: Maven@3
